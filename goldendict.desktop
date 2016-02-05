@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GoldenDict
+GenericName=GoldenDict
+Comment=GoldenDict
+Exec=/usr/bin/goldendict
+Terminal=false
+Type=Application
+Icon=GoldenDict
+Categories=GoldenDict
+StartupNotify=false
