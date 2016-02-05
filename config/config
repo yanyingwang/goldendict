@@ -1,0 +1,165 @@
+<config>
+ <paths>
+  <path recursive="1">/usr/share/dictdd/stardict-langdao-ce-gb-2.4.2-a</path>
+  <path recursive="1">/usr/share/dictdd/stardict-langdao-ec-gb-2.4.2</path>
+  <path recursive="1">/usr/share/dictdd/stardict-oxford-gb-formated-2.4.2</path>
+  <path recursive="1">/usr/share/dictdd/stardict-21shijishuangxiangcidian-2.4.2</path>
+ </paths>
+ <sounddirs>
+  <sounddir icon="" name="WyabdcRealPeopleTTS">/usr/share/dictdd/WyabdcRealPeopleTTS</sounddir>
+ </sounddirs>
+ <dictionaryOrder id="0" name="">
+  <dictionary name="朗道汉英字典5.0">3b1f10560aa24183e60d68dc7374a93e</dictionary>
+  <dictionary name="Bing">e819fce0b2f1bd36880f38342aea9826</dictionary>
+  <dictionary name="朗道英汉字典5.0">12c7e89587cf2e921209978629eb2b6d</dictionary>
+  <dictionary name="牛津英汉双解美化版">a109fb7cdfc0285721ea2a820274ef3d</dictionary>
+  <dictionary name="21世纪英汉汉英双向词典">6604fe88fc12a915ba5e6c30de22826e</dictionary>
+  <dictionary name="WyabdcRealPeopleTTS">44b5b0e939a003ce49d682366930fb80</dictionary>
+  <dictionary name="黑本式罗马字（平假名）">94eae5a5aaf5b0a900490f4d6b36aac0</dictionary>
+  <dictionary name="黑本式罗马字（片假名）">3252a35767d3f6e85e3e39069800dd2f</dictionary>
+  <dictionary name="Forvo (En)">13f0f5243c943ec5826f25d35b4f7477</dictionary>
+  <dictionary name="Forvo (Ja)">c3f14ec30c4d3a96e14f41ed8bfee9d3</dictionary>
+  <dictionary name="Forvo">1c92fc587a5e5ce40d3cb555ffbe2682</dictionary>
+  <mutedDictionaries/>
+ </dictionaryOrder>
+ <inactiveDictionaries id="0" name="">
+  <mutedDictionaries/>
+ </inactiveDictionaries>
+ <groups nextId="2">
+  <group shortcut="Ctrl+Z" icon="cn.png" id="1" name="myo">
+   <dictionary name="WyabdcRealPeopleTTS">44b5b0e939a003ce49d682366930fb80</dictionary>
+   <dictionary name="Forvo (En)">13f0f5243c943ec5826f25d35b4f7477</dictionary>
+   <dictionary name="Forvo (Ja)">c3f14ec30c4d3a96e14f41ed8bfee9d3</dictionary>
+   <dictionary name="朗道英汉字典5.0">12c7e89587cf2e921209978629eb2b6d</dictionary>
+   <dictionary name="牛津英汉双解美化版">a109fb7cdfc0285721ea2a820274ef3d</dictionary>
+   <dictionary name="Bing">e819fce0b2f1bd36880f38342aea9826</dictionary>
+   <dictionary name="Forvo">1c92fc587a5e5ce40d3cb555ffbe2682</dictionary>
+   <dictionary name="黑本式罗马字（平假名）">94eae5a5aaf5b0a900490f4d6b36aac0</dictionary>
+   <dictionary name="黑本式罗马字（片假名）">3252a35767d3f6e85e3e39069800dd2f</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>3252a35767d3f6e85e3e39069800dd2f</mutedDictionary>
+   </mutedDictionaries>
+  </group>
+ </groups>
+ <hunspell dictionariesPath=""/>
+ <transliteration>
+  <enableRussianTransliteration>0</enableRussianTransliteration>
+  <enableGermanTransliteration>0</enableGermanTransliteration>
+  <enableGreekTransliteration>0</enableGreekTransliteration>
+  <enableBelarusianTransliteration>0</enableBelarusianTransliteration>
+  <romaji>
+   <enable>1</enable>
+   <enableHepburn>1</enableHepburn>
+   <enableNihonShiki>0</enableNihonShiki>
+   <enableKunreiShiki>0</enableKunreiShiki>
+   <enableHiragana>1</enableHiragana>
+   <enableKatakana>1</enableKatakana>
+  </romaji>
+ </transliteration>
+ <forvo>
+  <enable>1</enable>
+  <apiKey></apiKey>
+  <languageCodes>en, ja</languageCodes>
+ </forvo>
+ <mediawikis>
+  <mediawiki enabled="0" url="http://en.wikipedia.org/w" icon="" id="ae6f89aac7151829681b85f035d54e48" name="English Wikipedia"/>
+  <mediawiki enabled="0" url="http://en.wiktionary.org/w" icon="" id="affcf9678e7bfe701c9b071f97eccba3" name="English Wiktionary"/>
+  <mediawiki enabled="0" url="http://ru.wikipedia.org/w" icon="" id="8e0c1c2b6821dab8bdba8eb869ca7176" name="Russian Wikipedia"/>
+  <mediawiki enabled="0" url="http://ru.wiktionary.org/w" icon="" id="b09947600ae3902654f8ad4567ae8567" name="Russian Wiktionary"/>
+  <mediawiki enabled="0" url="http://de.wikipedia.org/w" icon="" id="a8a66331a1242ca2aeb0b4aed361c41d" name="German Wikipedia"/>
+  <mediawiki enabled="0" url="http://de.wiktionary.org/w" icon="" id="21c64bca5ec10ba17ff19f3066bc962a" name="German Wiktionary"/>
+  <mediawiki enabled="0" url="http://pt.wikipedia.org/w" icon="" id="96957cb2ad73a20c7a1d561fc83c253a" name="Portuguese Wikipedia"/>
+  <mediawiki enabled="0" url="http://pt.wiktionary.org/w" icon="" id="ed4c3929196afdd93cc08b9a903aad6a" name="Portuguese Wiktionary"/>
+ </mediawikis>
+ <websites>
+  <website enabled="0" url="http://www.google.com/dictionary?aq=f&amp;langpair=en|en&amp;q=%GDWORD%&amp;hl=en" icon="" id="b88cb2898e634c6638df618528284c2d" name="Google En-En (Oxford)"/>
+  <website enabled="0" url="http://www.urbandictionary.com/define.php?term=%GDWORD%" icon="" id="f376365a0de651fd7505e7e5e683aa45" name="Urban Dictionary"/>
+  <website enabled="0" url="http://multitran.ru/c/m.exe?CL=1&amp;l1=1&amp;s=%GD1251%" icon="" id="324ca0306187df7511b26d3847f4b07c" name="Multitran (En)"/>
+  <website enabled="0" url="http://lingvopro.abbyyonline.com/en/Search/en-ru/%GDWORD%" icon="" id="924db471b105299c82892067c0f10787" name="Lingvo (En-Ru)"/>
+  <website enabled="0" url="http://michaelis.uol.com.br/moderno/ingles/index.php?lingua=portugues-ingles&amp;palavra=%GDISO1%" icon="" id="087a6d65615fb047f4c80eef0a9465db" name="Michaelis (Pt-En)"/>
+  <website enabled="1" url="http://cn.bing.com/dict/search?q=%GDWORD%&amp;go=%E6%8F%90%E4%BA%A4&amp;qs=n&amp;form=CM&amp;pq=%GDWORD%&amp;sc=5-6&amp;sp=-1&amp;sk=" icon="" id="e819fce0b2f1bd36880f38342aea9826" name="Bing"/>
+  <website enabled="0" url="http://www.iciba.com/%GDWORD%/" icon="" id="d95fb0ad83563917c8f3a0381f979d98" name="Iciba"/>
+  <website enabled="0" url="http://dict.youdao.com/search?q=%GDWORD%&amp;ue=utf8&amp;keyfrom=web.index" icon="" id="03e6695886dd2e01d5568353efc84fc7" name="Youdao"/>
+  <website enabled="1" url="http://zh.forvo.com/search/%GDWORD%" icon="" id="1c92fc587a5e5ce40d3cb555ffbe2682" name="Forvo"/>
+ </websites>
+ <programs/>
+ <voiceEngines/>
+ <mutedDictionaries>
+  <mutedDictionary>d95fb0ad83563917c8f3a0381f979d98</mutedDictionary>
+ </mutedDictionaries>
+ <popupMutedDictionaries/>
+ <preferences>
+  <interfaceLanguage>zh_CN</interfaceLanguage>
+  <displayStyle>modern</displayStyle>
+  <newTabsOpenAfterCurrentOne>0</newTabsOpenAfterCurrentOne>
+  <newTabsOpenInBackground>1</newTabsOpenInBackground>
+  <hideSingleTab>0</hideSingleTab>
+  <mruTabOrder>0</mruTabOrder>
+  <hideMenubar>0</hideMenubar>
+  <enableTrayIcon>1</enableTrayIcon>
+  <startToTray>1</startToTray>
+  <closeToTray>1</closeToTray>
+  <autoStart>0</autoStart>
+  <doubleClickTranslates>1</doubleClickTranslates>
+  <selectWordBySingleClick>0</selectWordBySingleClick>
+  <escKeyHidesMainWindow>0</escKeyHidesMainWindow>
+  <zoomFactor>1</zoomFactor>
+  <wordsZoomLevel>0</wordsZoomLevel>
+  <enableMainWindowHotkey>1</enableMainWindowHotkey>
+  <mainWindowHotkey>Ctrl+F11, Ctrl+F11</mainWindowHotkey>
+  <enableClipboardHotkey>0</enableClipboardHotkey>
+  <clipboardHotkey>Ctrl+C, Ctrl+S</clipboardHotkey>
+  <enableScanPopup>1</enableScanPopup>
+  <startWithScanPopupOn>1</startWithScanPopupOn>
+  <enableScanPopupModifiers>1</enableScanPopupModifiers>
+  <scanPopupModifiers>8</scanPopupModifiers>
+  <scanPopupAltMode>0</scanPopupAltMode>
+  <scanPopupAltModeSecs>2</scanPopupAltModeSecs>
+  <scanToMainWindow>0</scanToMainWindow>
+  <scanPopupUseUIAutomation>1</scanPopupUseUIAutomation>
+  <scanPopupUseIAccessibleEx>1</scanPopupUseIAccessibleEx>
+  <scanPopupUseGDMessage>1</scanPopupUseGDMessage>
+  <pronounceOnLoadMain>0</pronounceOnLoadMain>
+  <pronounceOnLoadPopup>0</pronounceOnLoadPopup>
+  <useExternalPlayer>0</useExternalPlayer>
+  <useInternalPlayer>1</useInternalPlayer>
+  <audioPlaybackProgram>mplayer</audioPlaybackProgram>
+  <alwaysOnTop>0</alwaysOnTop>
+  <searchInDock>0</searchInDock>
+  <historyStoreInterval>0</historyStoreInterval>
+  <proxyserver enabled="0">
+   <type>0</type>
+   <host></host>
+   <port>3128</port>
+   <user></user>
+   <password></password>
+  </proxyserver>
+  <checkForNewReleases>1</checkForNewReleases>
+  <disallowContentFromOtherSites>0</disallowContentFromOtherSites>
+  <enableWebPlugins>1</enableWebPlugins>
+  <hideGoldenDictHeader>1</hideGoldenDictHeader>
+  <maxStringsInHistory>500</maxStringsInHistory>
+  <storeHistory>1</storeHistory>
+  <alwaysExpandOptionalParts>1</alwaysExpandOptionalParts>
+  <addonStyle></addonStyle>
+  <collapseBigArticles>0</collapseBigArticles>
+  <articleSizeLimit>2000</articleSizeLimit>
+  <maxDictionaryRefsInContextMenu>20</maxDictionaryRefsInContextMenu>
+ </preferences>
+ <lastMainGroupId>1</lastMainGroupId>
+ <lastPopupGroupId>1</lastPopupGroupId>
+ <popupWindowState>AAAA/wAAAAH9AAAAAAAAA0AAAAIEAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAQAAAAEAAAAaAGQAaQBjAHQAaQBvAG4AYQByAHkAQgBhAHIDAAAAAP////8AAAAAAAAAAA==</popupWindowState>
+ <popupWindowGeometry>AdnQywABAAAAAAGQAAACDAAABO8AAAQPAAABkAAAAgwAAATvAAAEDwAAAAAAAA==</popupWindowGeometry>
+ <pinPopupWindow>0</pinPopupWindow>
+ <mainWindowState>AAAA/wAAAAH9AAAAAgAAAAAAAADMAAACCfwCAAAAAfsAAAAUAHMAZQBhAHIAYwBoAFAAYQBuAGUAAAAAIAAAAgkAAACVAP///wAAAAEAAACIAAACf/wCAAAAAvsAAAASAGQAaQBjAHQAcwBQAGEAbgBlAAAAADkAAAHhAAAAbgD////7AAAAFgBoAGkAcwB0AG8AcgB5AFAAYQBuAGUBAAAAIAAAAn8AAABuAP///wAAAxgAAAJ/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAG4AYQB2AFQAbwBvAGwAYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABoAZABpAGMAdABpAG8AbgBhAHIAeQBCAGEAcgEAAAHK/////wAAAAAAAAAA</mainWindowState>
+ <mainWindowGeometry>AdnQywABAAAAAAFKAAAATQAABOoAAALrAAABSgAAAE0AAATqAAAC6wAAAAAAAA==</mainWindowGeometry>
+ <dictInfoGeometry></dictInfoGeometry>
+ <inspectorGeometry></inspectorGeometry>
+ <timeForNewReleaseCheck>2016-02-07T09:34:00</timeForNewReleaseCheck>
+ <skippedRelease></skippedRelease>
+ <showingDictBarNames>0</showingDictBarNames>
+ <usingSmallIconsInToolbars>1</usingSmallIconsInToolbars>
+ <editDictionaryCommandLine></editDictionaryCommandLine>
+ <maxPictureWidth>0</maxPictureWidth>
+ <maxHeadwordSize>256</maxHeadwordSize>
+</config>
