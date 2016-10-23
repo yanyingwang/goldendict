@@ -48,7 +48,7 @@ ln -sf ~/goldendict/config ~/.goldendict
 
 sudo ln -sf ~/goldendict/dictdd /usr/share/
 
-cp ~/goldendict/goldendict.desktop ~/.cofig/autostart
+cp ~/goldendict/goldendict.desktop ~/.config/autostart
 
 ```
 
